@@ -3,7 +3,7 @@
     style="?android:attr/textAppearanceLarge" android:layout_width="match_parent"
     android:layout_height="match_parent" android:padding="16dp" android:textIsSelectable="true"
     tools:context=".DriverDetailFragment">
-    <!-- Declaramos un boton y un textview para ver el textoo quitarlo-->
+    <!-- Declaramos un boton y un textview para ver el textoo quitarlo.-->
 
     <Button
         android:layout_width="wrap_content"

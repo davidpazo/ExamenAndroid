@@ -6,7 +6,7 @@
     android:divider="?android:attr/dividerHorizontal" android:orientation="horizontal"
     android:showDividers="middle" tools:context=".DriverListActivity">
 
-    <!--Creamos el layout apaisado-->
+    <!--Creamos el layout apaisado.-->
 
     <fragment android:id="@+id/item_list"
         android:name="com.example.dpazolopez.examenandroid.ItemDetailFragment"
